@@ -1,0 +1,16 @@
+export default function Expenses() {
+    return (
+      <main style={{ padding: "1rem 0" }}>
+        <h2>Expenses</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis tellus massa, nec venenatis quam posuere malesuada. Suspendisse ut elit ac magna aliquam suscipit ut eu orci. Morbi augue risus, volutpat at eros ac, congue egestas tellus. Donec convallis arcu ac felis iaculis pretium. Morbi pulvinar diam vitae dolor malesuada, sit amet molestie ipsum posuere. Praesent dictum tortor eget massa commodo, sit amet convallis dui interdum. Sed eu dolor in leo aliquet elementum at a turpis. Suspendisse nec nulla at tellus ullamcorper molestie. Sed id molestie velit, vitae convallis magna.
+
+Praesent mi sapien, euismod lacinia mollis eget, iaculis in tortor. Pellentesque egestas ultrices quam, at accumsan arcu mollis a. Donec placerat odio vestibulum dolor consectetur, quis elementum ipsum cursus. Mauris quis molestie sapien, imperdiet molestie mi. Nam euismod mauris sit amet euismod semper. Mauris ultrices, libero cursus sagittis congue, neque ex vehicula mauris, ut elementum odio orci sed lectus. Aenean laoreet turpis augue, nec molestie erat efficitur id. Integer vel sapien id dui dictum varius. Nulla in cursus felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Morbi maximus tortor quam, imperdiet ornare neque vulputate nec. Vestibulum a facilisis lorem. Nunc id feugiat dolor. Integer vehicula pellentesque convallis. Nam maximus tincidunt ligula. Nunc iaculis mi eu mollis porta. Etiam vulputate tortor vitae ligula congue ultricies. Proin interdum, mauris quis commodo condimentum, sapien tortor tincidunt tellus, id finibus nisi tortor ut erat. Etiam nec tellus ultricies, sagittis magna vel, iaculis massa. Sed efficitur dui id dapibus condimentum. Curabitur aliquam at nunc ac gravida. Nam aliquam lorem vulputate, ullamcorper nulla vitae, maximus velit. Nunc sollicitudin auctor neque elementum rhoncus. Donec suscipit arcu ac sem hendrerit, a malesuada mauris lacinia. Aenean sagittis molestie elit, vel fringilla neque tristique vitae. Suspendisse eros quam, aliquam in elit ornare, sagittis tincidunt arcu.
+
+Proin vitae tortor convallis, placerat risus nec, maximus erat. Aliquam ut dictum est, ut volutpat ligula. Fusce lobortis mi mi, quis pulvinar lorem fringilla et. Aenean turpis diam, posuere eu ante placerat, bibendum feugiat nisl. Sed mi augue, suscipit eu blandit id, ullamcorper bibendum felis. Donec cursus odio nec egestas euismod. Morbi vehicula pharetra felis, iaculis lacinia libero ultrices id. Aenean ligula tortor, condimentum id purus vel, tincidunt ullamcorper risus. Praesent eget tristique sapien. Maecenas auctor ac nunc quis ultrices.
+
+Integer fringilla augue augue, in aliquam augue sollicitudin eleifend. Phasellus placerat ligula vitae pharetra tincidunt. Fusce ac congue mauris. Aliquam ac nibh faucibus, pretium augue a, ullamcorper leo. In nulla enim, hendrerit id sagittis sit amet, facilisis vel dolor. Mauris laoreet tellus velit, eget tristique leo auctor ac. Donec laoreet a ante egestas mattis. Praesent id porttitor purus. Etiam ullamcorper elit quis lobortis efficitur. Aenean fermentum lobortis ex. Proin volutpat nisl vel porta blandit.</p>
+      </main>
+    );
+  }

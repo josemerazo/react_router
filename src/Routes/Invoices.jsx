@@ -1,0 +1,16 @@
+export default function Invoices() {
+    return (
+      <main style={{ padding: "1rem 0" }}>
+        <h2>Invoices</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida diam ac tempor dictum. Nullam maximus ultrices nulla, imperdiet laoreet nunc malesuada nec. Duis sed erat arcu. Morbi non magna ipsum. Aliquam euismod ipsum id eros facilisis blandit. Maecenas eget porta nunc. In ut magna consectetur, ullamcorper enim sed, porta tellus. Integer vel lectus condimentum, fermentum risus ac, pulvinar elit. Aliquam egestas dui eu tellus vestibulum semper. Phasellus eu diam vitae leo sagittis convallis id sed dui.
+
+Mauris et tellus placerat, imperdiet diam vitae, facilisis eros. Mauris auctor justo nec purus facilisis, sit amet elementum urna tristique. Integer posuere purus et dui sollicitudin, vel imperdiet justo semper. Maecenas tempus ligula sit amet pellentesque placerat. Morbi lacinia risus id tortor vestibulum, et facilisis nisl pretium. Nulla dolor nisl, cursus at auctor nec, porta sit amet ante. Phasellus enim enim, cursus ut rhoncus at, congue at lorem. Nullam vel vehicula eros. Morbi at suscipit nunc. Cras facilisis nisi a dapibus accumsan. Aenean sollicitudin tellus sit amet quam dignissim eleifend. Sed fermentum at libero at finibus. Nulla dignissim quis tortor id bibendum.
+
+Nulla facilisi. Aliquam a dolor id dui tempor tempus et in tortor. Quisque porta urna in elit feugiat, non mollis lorem suscipit. Pellentesque eget erat turpis. In hac habitasse platea dictumst. Nam in est semper, accumsan libero eu, euismod quam. Donec volutpat arcu elit, non semper eros placerat in. Maecenas interdum nisi mollis, rhoncus mi vitae, fermentum sem. Etiam posuere, sem vel tincidunt dignissim, massa velit tincidunt orci, eget iaculis ligula sapien porta felis. Fusce eu tincidunt neque. Duis gravida, metus ut lobortis rutrum, est nisl consectetur ante, in maximus mi eros sollicitudin arcu. Aliquam rhoncus lorem neque. Cras non faucibus ex. Vestibulum rutrum lobortis nunc a congue. Duis aliquam lacinia libero sit amet pharetra. Nunc varius, leo vitae imperdiet dignissim, metus ante aliquam tellus, eu dignissim velit turpis ut odio.
+
+Nunc sagittis rhoncus velit, fringilla molestie felis viverra ultrices. Integer malesuada mauris ipsum, at convallis erat rutrum ut. Praesent vel justo molestie, facilisis massa a, gravida nibh. Curabitur ut porta nulla. Aliquam sed sapien sit amet ipsum rutrum imperdiet consectetur vitae sapien. Aliquam risus mauris, bibendum id mi quis, accumsan molestie augue. Nulla facilisi. Vivamus in nisl at ante ornare condimentum.
+
+Suspendisse lobortis, ex eu feugiat varius, nulla nisl rhoncus lacus, eu fringilla arcu velit eget arcu. Etiam lacinia rutrum sagittis. Donec quis ligula magna. In suscipit lectus ut posuere congue. Nunc ut ultricies nunc. Fusce ornare viverra urna quis congue. Donec sed iaculis nisi. Aliquam erat volutpat. Proin ac odio et arcu rhoncus dapibus. Mauris venenatis laoreet lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec interdum nisi dictum, porttitor lacus vulputate, cursus orci. Donec vel orci dui.</p>
+      </main>
+    );
+  }
